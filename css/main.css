@@ -1,0 +1,60 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.nav {
+  margin-top: 5%;
+}
+
+h5, h6 {
+  text-align: center;
+  font-weight: bold;
+}
+
+i {
+  color: #FF1493;
+}
+
+/*principal*/
+.buttons {
+  margin-top: 25vh;
+}
+
+.btn-large {
+  background-color: rgba(0, 0, 0, 0.5);
+  border: 1px solid white;
+  border-radius: 5px;
+}
+
+.home {
+  background-image: url("../assets/images/cd2.jpg");
+  width: auto;
+  height: 100vh;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.logo-header {
+  padding-top: 2%
+}
+
+.logo-center {
+  margin-top: 20vh;
+}
+
+/*style views*/
+
+/*view-splash.html*/
+.view-splash {
+  height: 100vh;
+  width: auto;
+  background: linear-gradient(#76278F, #FF1493);
+}
+
+.logo {
+  margin-top: 40vh;
+}
+
+/*sign-up.html*/
